@@ -1,6 +1,6 @@
 # EDA_udemyData
 
-Q. 1) What are all different subjects for which Udemy is offering courses ?/n
+Q. 1) What are all different subjects for which Udemy is offering courses ?
 Q. 2) Which subject has the maximum number of courses.
 Q. 3) Show all the courses which are Free of Cost.
 Q. 4) Show all the courses which are Paid.
